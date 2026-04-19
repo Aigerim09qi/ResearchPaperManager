@@ -228,13 +228,18 @@ Exported to CSV!
 (Add screenshots here with date and time visible)
 <img width="1366" height="768" alt="Снимок экрана (90)" src="https://github.com/user-attachments/assets/8d76d26f-1437-4bd9-805f-105d7b57d09c" />
 
+
 <img width="1366" height="768" alt="Снимок экрана (93)" src="https://github.com/user-attachments/assets/63653101-4ddc-40cd-aed8-0272ce953d31" />
+
 
 <img width="1366" height="768" alt="Снимок экрана (88)" src="https://github.com/user-attachments/assets/2daa8ab6-0039-490b-b447-c1ddf9f7db3f" />
 
+
 <img width="1366" height="768" alt="Снимок экрана (94)" src="https://github.com/user-attachments/assets/c0e52226-7d15-4476-b3ae-f4033696850f" />
 
+
 <img width="1366" height="768" alt="Снимок экрана (91)" src="https://github.com/user-attachments/assets/d4bdf2eb-4781-4d05-9b82-02defe89e749" />
+
 
 <img width="1366" height="768" alt="Снимок экрана (102)" src="https://github.com/user-attachments/assets/f2c32623-6b22-49fa-bea8-ed702eeb2ef7" />
 
