@@ -164,7 +164,10 @@ New title: Advanced AI
 ```
 **Output:**
 
+```
 Saved!
+```
+
 ---
 
 ### Delete Paper
@@ -177,18 +180,39 @@ Enter ID: 1
 ```
 **Output:**
 
+```
 Saved!
+```
+
 ---
 ### Exit
 
+**Input:**
+
 ```
 5
+```
+
+**Output:**
+
+```
 Saving data and exiting... Goodbye!
+```
+
 ---
 ### Export to CSV
+
+**Input:**
+
 ```
 6
+```
+**Output:**
+
+```
 Exported to CSV!
+```
+
 ---
 
 ## Error Handling
