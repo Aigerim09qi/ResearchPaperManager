@@ -109,6 +109,7 @@ project/
 * Data is stored in a file: `papers.dat`
 * Uses `ObjectOutputStream` and `ObjectInputStream`
 * Automatically loads data on program start
+* papers.csv - for export/import
 
 ---
 
@@ -205,7 +206,7 @@ Saving data and exiting... Goodbye!
 **Input:**
 
 ```
-6
+5
 ```
 **Output:**
 
@@ -215,6 +216,20 @@ Exported to CSV!
 
 ---
 
+### Import from CSV
+
+**Input:**
+
+```
+6
+```
+**Output:**
+
+```
+Imported!
+```
+
+---
 ## Error Handling
 
 * Prevents text input instead of numbers
